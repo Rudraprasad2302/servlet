@@ -106,7 +106,7 @@ http://localhost:8080/ProjectName/
 - Add JSP for frontend
 - Connect to database (JDBC)
 - Implement session management
-- Add authentication system
+- Add an authentication system
 - Convert to Spring Boot project
 
 ---
